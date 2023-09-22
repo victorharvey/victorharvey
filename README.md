@@ -2,12 +2,12 @@
 
 I'm Victor, a **Senior Supply Chain Professional**  based in New York City. I am passionate about using **Data Science** to optimize **Supply Chain Operations**. 
 
-### 👉 Let's connect!
+### 🤝 Let's connect!
 Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/) where I share my insights.
 
-### Projects
+### Portfolio 📒
 
-#### Logistics Flow
+#### Logistics Flow 📦
 - Inventory Management (Stochastic Demand) [Github Repository](https://github.com/victorharvey/Inventory-management-stochastic-demand)
 - Central Limit Theorem [Github Repository](https://github.com/victorharvey/Central-Limit-Theorem) 
 - E-commerce Data Analysis [Github Repository](https://github.com/victorharvey/e-commerce-data-analysis)
@@ -18,6 +18,6 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/) where I share my i
 - Last Mile Delivery Optimization [Github Repository](https://github.com/victorharvey/Last-Mile-Delivery-Optimization)
 - Reducing Warehouse Space [Github Repository](https://github.com/victorharvey/Reducing-warehouse-space)
 
-#### Data Presentation
+#### Data Presentation 📊
 - Product Analytics Pareto Distribution [Github Repository](https://github.com/victorharvey/Product-Analytics-Pareto-Distribution)
 
