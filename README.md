@@ -8,7 +8,7 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/) where I share my i
 ### Portfolio 📒
 
 ### M5 Demand Forecasting (Series) 🧭
-This is going to be a data pipeline series from data aquisition, data structure analysis, data visualisation, feature engineering, machine learnign forecasting and neural network optimization.
+This is going to be a process from data aquisition, data structure analysis, data visualisation, feature engineering, machine learning forecasting and neural network optimization.
 - Part 1: Exploratory Analysis: Data Structures [Github Repository](https://github.com/victorharvey/M5-Forecasting---Exploratory-Analysis---Data-Structure)
 
 ### SalesForecasting 🧭
@@ -31,4 +31,5 @@ This is going to be a data pipeline series from data aquisition, data structure 
 - Product Analytics Pareto Distribution [Github Repository](https://github.com/victorharvey/Product-Analytics-Pareto-Distribution)
 
 ### Global Trade
+This is going to be a process from data aquisition, data structure analysis, data visualisation, feature engineering, machine learning forecasting and neural network optimization.
 - Trade % of GDP [Github Repository](https://github.com/victorharvey/Trade-of-GDP)
