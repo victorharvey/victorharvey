@@ -5,9 +5,13 @@ I'm Victor, a **Senior Supply Chain Professional**  based in New York City. I am
 ### 🤝 Let's connect!
 Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/) where I share my insights.
 
-## Portfolio 📒
+### Portfolio 📒
 
-### Forecasting 🧭
+### M5 Demand Forecasting (Series) 🧭
+This is going to be a data pipeline series from data aquisition, data structure analysis, data visualisation, feature engineering, machine learnign forecasting and neural network optimization.
+- Part 1: Exploratory Analysis: Data Structures [Github Repository]([https://github.com/victorharvey/Data-Modeling-Demand-Forecast-Supply-Chain](https://github.com/victorharvey/M5-Forecasting---Exploratory-Analysis---Data-Structure))
+
+### SalesForecasting 🧭
 - Demand Forecasting using R [Github Repository](https://github.com/victorharvey/Data-Modeling-Demand-Forecast-Supply-Chain)
 
 ### Inventory and Materials 📦
@@ -26,3 +30,5 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/) where I share my i
 #### Data Presentation 📊
 - Product Analytics Pareto Distribution [Github Repository](https://github.com/victorharvey/Product-Analytics-Pareto-Distribution)
 
+### Global Trade
+- Trade % of GDP [Github Repository]([https://github.com/victorharvey/Data-Modeling-Demand-Forecast-Supply-Chain](https://github.com/victorharvey/Trade-of-GDP)https://github.com/victorharvey/Trade-of-GDP)
