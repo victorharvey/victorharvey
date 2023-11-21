@@ -5,10 +5,10 @@ I'm Victor, a **Senior Supply Chain Professional**  based in New York City. I am
 ### 🤝 Let's connect!
 Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/) where I share my insights.
 
-### Portfolio 📒
+## Portfolio 📒
 
 ### Forecasting 🧭
-- Demand Forecasting project [Github Repository](https://github.com/victorharvey/Data-Modeling-Demand-Forecast-Supply-Chain)
+- Demand Forecasting using R [Github Repository](https://github.com/victorharvey/Data-Modeling-Demand-Forecast-Supply-Chain)
 
 ### Inventory and Materials 📦
 - Inventory Management (Stochastic Demand) [Github Repository](https://github.com/victorharvey/Inventory-management-stochastic-demand)
