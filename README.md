@@ -1,6 +1,12 @@
 ### 👋 Hi there
 
-I'm Victor, a **Senior Supply Chain Professional**  based in New York City. I am passionate about using **Data Science** to optimize **Supply Chain Operations**. 
+I'm Victor and my purpose in life is to serve. Whether that be my family, team members, employer or the customer. In my professional capacity I serve using my **15 years experience** in **strategic operations planning**. Based in New York City, I am passionate about using **Data Science** to provide **business insghts** and **optimize operations**. My skillset is:
+- Python
+- R
+- SQL
+- Excel
+
+In time I will add to this with more side projects culminating with a multi tier probabilistic supply chain optiization model using computational design.  
 
 ### 🤝 Let's connect!
 Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/) where I share my insights.
