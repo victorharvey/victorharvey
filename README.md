@@ -17,8 +17,8 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/) where I share my i
 This is going to be a process from data aquisition, data structure analysis, data visualisation, feature engineering, machine learning forecasting and neural network optimization.
 - Part 1: Exploratory Analysis: Data Structures [Github Repository](https://github.com/victorharvey/M5-Forecasting---Exploratory-Analysis---Data-Structure)
 
-### SalesForecasting 🧭
-- Demand Forecasting using R [Github Repository](https://github.com/victorharvey/Data-Modeling-Demand-Forecast-Supply-Chain)
+### Sales Forecasting - Statistical Analysis 🧭
+- Demand Forecasting using statistical analysis in R [Github Repository](https://github.com/victorharvey/Data-Modeling-Demand-Forecast-Supply-Chain)
 
 ### Inventory and Materials 📦
 - Inventory Management (Stochastic Demand) [Github Repository](https://github.com/victorharvey/Inventory-management-stochastic-demand)
