@@ -15,7 +15,9 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/) where I share my i
 
 ### M5 Demand Forecasting (Series) 🧭
 This is going to be a process from data aquisition, data structure analysis, data visualisation, feature engineering, machine learning forecasting and neural network optimization.
-- Part 1: Exploratory Analysis: Data Structures [Github Repository](https://github.com/victorharvey/M5-Forecasting---Exploratory-Analysis---Data-Structure)
+- Project Plan [Click Here](https://github.com/victorharvey/Demand-Forecasting-and-Dimensionality-Reduction/blob/main/README.md)
+- Part 1: Data Ingestion [Github Repository](https://github.com/victorharvey/Demand-Forecasting-and-Dimensionality-Reduction/blob/main/M5%20Forecasting%20—%20Data%20Ingestion.ipynb)
+- Part 2: Exploratory Analysis [Github Repository](https://github.com/victorharvey/Demand-Forecasting-and-Dimensionality-Reduction/blob/main/Machine%20Learning%20-%20Exploratory%20Analysis.ipynb)
 
 ### Sales Forecasting - Statistical Analysis 🧭
 - Demand Forecasting using statistical analysis in R [Github Repository](https://github.com/victorharvey/Data-Modeling-Demand-Forecast-Supply-Chain)
