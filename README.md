@@ -9,11 +9,11 @@ I'm Victor and my purpose in life is to serve. Whether that be my family, team m
 In time I will add to this with more side projects culminating with a multi tier probabilistic supply chain optiization model using computational design.  
 
 ### 🤝 Let's connect!
-Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/) where I share my insights.
+Add me on [Linkedin](https://www.linkedin.com/in/victorkharvey/) where I share my insights.
 
 ### Portfolio 📒
 
-### M5 Demand Forecasting (Series) 🧭
+### Demand Forecasting / Dimensionality Reduction (Series) 🪡
 This is going to be a process from data aquisition, data structure analysis, data visualisation, feature engineering, machine learning forecasting and neural network optimization.
 - Project Plan [Click Here](https://github.com/victorharvey/Demand-Forecasting-and-Dimensionality-Reduction/blob/main/README.md)
 - Part 1: Data Ingestion [Github Repository](https://github.com/victorharvey/Demand-Forecasting-and-Dimensionality-Reduction/blob/main/M5%20Forecasting%20—%20Data%20Ingestion.ipynb)
@@ -35,9 +35,12 @@ This is going to be a process from data aquisition, data structure analysis, dat
 - Container Maximization Problem [Github Respository](https://github.com/victorharvey/Container-Maximization-Problem)
 - Last Mile Delivery Optimization [Github Repository](https://github.com/victorharvey/Last-Mile-Delivery-Optimization)
 
-#### Data Presentation 📊
+#### Machine Learning / Deep Learning 🤖
+- Youtube Comments Spam Detection [Github Repository](https://github.com/victorharvey/Spam-Detection-NLP-)
+
+#### Data Visualisation 📊
 - Product Analytics Pareto Distribution [Github Repository](https://github.com/victorharvey/Product-Analytics-Pareto-Distribution)
 
-### Global Trade
+### Global Trade (Series)
 This is going to be a process from data aquisition, data structure analysis, data visualisation, feature engineering, machine learning forecasting and neural network optimization.
 - Trade % of GDP [Github Repository](https://github.com/victorharvey/Trade-of-GDP)
